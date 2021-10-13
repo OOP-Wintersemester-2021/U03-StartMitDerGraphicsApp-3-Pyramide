@@ -2,7 +2,9 @@
 
 Ihr Programm soll eine Pyramide zeichnen, die aus einzelnen Ziegeln besteht, die in horizontalen Linien angeordnet werden. Die Anzahl der einzelnen Blöcke nimmt um einen Block pro Reihe ab:
 
-![Pyramid](docs/u03-pyramide.png)
+| Pyramide |
+|:----:|
+| ![Pyramid](./docs/u03-pyramide.png) |
 
 
 Die Pyramide soll am unteren Ende der Zeichenfläche stehen und in der Mitte zentriert werden. Verwenden Sie mindestens die folgenden Konstanten:
