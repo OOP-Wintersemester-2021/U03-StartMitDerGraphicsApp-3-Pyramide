@@ -1,4 +1,4 @@
-# U03-3 | Pyramide
+# U09 | Pyramide
 
 Ihr Programm soll eine Pyramide zeichnen, die aus einzelnen Ziegeln besteht, die in horizontalen Linien angeordnet werden. Die Anzahl der einzelnen Blöcke nimmt um einen Block pro Reihe ab:
 
